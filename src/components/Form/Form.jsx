@@ -26,8 +26,6 @@ const Form = () => {
       name: "",
       email: "",
       date: null,
-
-      // Reset other form fields
     });
   };
 
